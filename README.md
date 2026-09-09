@@ -9,4 +9,4 @@ RAM VRM - [TPS53659](https://github.com/0rqa/reverse-engineering-QuantaPlex-T42S
 ___ VRM - [TPS53622](https://github.com/0rqa/reverse-engineering-QuantaPlex-T42S-2U/tree/main/datasheets%20%2B%20literature/Texas%20instruments/TPS53622) <br>
 
 BIOS EPPROM - <br>
-____ EEPROM -
+Fallback BIOS EEPROM -
